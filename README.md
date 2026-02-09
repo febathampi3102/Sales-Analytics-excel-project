@@ -30,3 +30,16 @@ The T-Test confirmed a **statistically significant relationship** between delive
 
 ## 🚀 Skills Demonstrated
 Data Analysis | Excel Dashboards | Statistical Analysis | Business Analytics
+
+## 🖼 Dashboard Preview
+![Dashboard](Screenshots/Dashboard.png)
+
+## 📊 Descriptive Statistics
+![Statistics](Screenshots/Descriptive_Statistics.png)
+
+## 🧪 T-Test Analysis
+![T-Test](Screenshots/T-test_analysis.png)
+
+## 📝 Sales Entry Form
+![Form](Screenshots/Sales_Form.png)
+
